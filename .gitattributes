@@ -1,0 +1,3 @@
+*.sh  -diff -merge -text
+*.dll -diff -merge -text
+*.pdf -diff -merge -text
